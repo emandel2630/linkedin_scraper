@@ -59,9 +59,6 @@ First, you must set your chromedriver location by
 export CHROMEDRIVER=~/chromedriver
 ```
 
-## Usage
-To use it, just create the class.
-
 ### Sample Usage
 ```python
 from linkedin_scraper import Person, actions
